@@ -11,7 +11,7 @@ function scuberGreetingForFeet(x){
 }
 
 function ternaryCheckCity(city){
-  city === 'NYC'
+  city === 'NYC' ? "" : ""
 }
 
 function switchOnCharmFromTip(){
