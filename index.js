@@ -1,4 +1,4 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(x){
   // Write your code here!
 }
 
